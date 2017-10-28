@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "summary": "List of common decoders for working with html",
     "repository": "https://github.com/ggpeti/elm-html-decoder.git",
     "license": "BSD3",
