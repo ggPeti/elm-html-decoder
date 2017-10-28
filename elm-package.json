@@ -1,7 +1,7 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "summary": "List of common decoders for working with html",
-    "repository": "https://github.com/ggpeti/elm-html-decoder.git",
+    "repository": "https://github.com/ggPeti/elm-html-decoder.git",
     "license": "BSD3",
     "source-directories": [
         "src"
